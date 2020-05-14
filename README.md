@@ -39,6 +39,8 @@
   - [Discord](/logiciels/discord/discord.md)
   - Docker
     * [Doc officielle (en)](https://docs.docker.com/)
+  - [fstab](/logiciels/fstab/fstab.md)
+    * [Monter automatiquement un disque au démarrage](/logiciels/fstab/fstab.md#monter-automatiquement-un-disque-au-dmarrage)
   - [Gihub](/logiciels/github/github.md)
     * [Push master to origin/master was rejected by remote](/logiciels/github/github.md#push-master-to-originmaster-was-rejected-by-remote)
   - [Mattermost](/logiciels/mattermost/mattermost.md)
@@ -64,5 +66,6 @@
   - [Ubuntu](/systemes/ubuntu/ubuntu.md)
     * [Connaître sa version d'Ubuntu](/systemes/ubuntu/ubuntu.md#connaître-sa-version-dubuntu)
     * [Étapes post-installation Ubuntu 20.04](/systemes/ubuntu/ubuntu.md#tapes-post-installation-ubuntu-2004)
+    * [Monter automatiquement un disque dur](/systemes/ubuntu/ubuntu.md#monter-automatiquement-un-disque-dur)
 + Sécurité
   - [Sécurité au travail](/securite/securite_au_travail/securite_au_travail.md)

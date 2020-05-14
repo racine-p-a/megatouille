@@ -29,6 +29,8 @@ Pour se [créer un utilisateur avec les droits sur une base](../../logiciels/pos
 
 ### Importer FileZilla
 
+Importer le fichier de paramètres.
+
 ### Configuration générale
 
 Remplacer le lanceur d'applications par un menu d'applications.
@@ -38,6 +40,9 @@ Raccourcis barre de lacement :
 - Firefox
 - Ktorrent
 - FileZilla
+- Dolphin
+
+Configurer la souris pour ouvrir les dossiers d'un simple clic (Espace de travail).
 
 ### Configurer Yakuake
 
@@ -45,7 +50,7 @@ Raccourcis barre de lacement :
 - largeur : 90%
 - thême : Breeze Perfect Dark
 
-
+[Monter automatiquement les autres disques durs](../../logiciels/fstab/fstab.md#monter-automatiquement-un-disque-au-dmarrage)
 
 ### Installer d'autres logiciels
 
@@ -68,3 +73,7 @@ lsb_release -a
 Ce qui nous donnera :
 
 ![Connaître sa version d'Ubuntu](images/ubuntu_release_name.png "Connaître sa version d'Ubuntu")
+
+## Monter automatiquement un disque dur
+
+voir [ici](../../logiciels/fstab/fstab.md#monter-automatiquement-un-disque-au-dmarrage)

@@ -1,6 +1,6 @@
 # Oddworld l'Odyssée d'Abe
 
-## Installation
+## Installation sur linux (ubuntu 18.04)
 
 ### Steam
 
