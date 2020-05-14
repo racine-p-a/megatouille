@@ -49,7 +49,7 @@
         1. [Créer un nouvel utilisateur super-admin](/logiciels/mysql/mysql.md#crer-un-nouvel-utilisateur-super-admin)
   - [postgreSQL](/logiciels/postgresql/postgresql.md)
       * [Problèmes généraux](/logiciels/postgresql/postgresql.md#problmes-gnraux)
-        1. [Créer un nouvel utilisateur super-admin](/logiciels/postgresql/postgresql.md#crer-un-nouvel-utilisateur-super-admin)  
+        1. [Créer un nouvel utilisateur super-admin avec sa table correspondante](/logiciels/postgresql/postgresql.md#crer-un-nouvel-utilisateur-super-admin-avec-sa-table-correspondante)  
   - [SPIP](/logiciels/spip/spip.md)
     * [Problèmes rencontrés durant l'utilisation de SPIP](/logiciels/spip/spip.md#Problèmes-rencontrés-durant-l'utilisation-de-spip)
       1. [Page blanche durant l'installation](/logiciels/spip/spip.md#page-blanche-durant-linstallation)
@@ -63,5 +63,6 @@
 + Systèmes
   - [Ubuntu](/systemes/ubuntu/ubuntu.md)
     * [Connaître sa version d'Ubuntu](/systemes/ubuntu/ubuntu.md#connaître-sa-version-dubuntu)
+    * [Étapes post-installation Ubuntu 20.04](/systemes/ubuntu/ubuntu.md#tapes-post-installation-ubuntu-2004)
 + Sécurité
   - [Sécurité au travail](/securite/securite_au_travail/securite_au_travail.md)

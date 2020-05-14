@@ -2,15 +2,11 @@
 
 ## Problèmes généraux
 
-### Créer un nouvel utilisateur super-admin
+### Créer un nouvel utilisateur super-admin avec sa table correspondante
 
 ```shell script
-# https://doc.ubuntu-fr.org/mysql
-CREATE USER 'nom_utilisateur'@'localhost' IDENTIFIED WITH mysql_native_password BY 'mot_de_passe_solide';
-GRANT ALL ON *.* TO 'nom_utilisateur'@'localhost';
-```
-
-```shell script
+#Identifiez-vous en tant que postgres :
+sudo -i -u postgres
 # Lancez postgres
 psql
 ```
@@ -31,8 +27,10 @@ ALTER USER nouvel_utilisateur WITH ENCRYPTED PASSWORD 'mon_mot_de_passe';
 ```
 ```shell script
 # Testons :
-psql nouvelle_base
+psql nouvelle_base # Une invite de commande psql s'ouvrira.
 
+# Quittez l'invite
+exit
 # « Sortez » de l'utilisateur postgres.
 exit
 ```
