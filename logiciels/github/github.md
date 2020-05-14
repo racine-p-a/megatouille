@@ -19,3 +19,4 @@ https://github.com/settings/emails
 
 ![Passage de l'email en mode public](images/github_email_public.png "Passage de l'email en mode public")
 
+Assurez-vous de décocher « Keep my email addesses private ».
