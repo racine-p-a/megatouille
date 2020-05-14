@@ -48,6 +48,10 @@
       1. [Erreur lors d'un import de dump](/logiciels/spip/spip.md#erreur-lors-dun-import-de-dump)
   - [Mattermost](/logiciels/mattermost/mattermost.md)
     * [Intégrer un webhook Gitlab](/logiciels/mattermost/mattermost.md#Intégrer-un-webhook-Gitlab)
+  - [mySQL](/logiciels/mysql/mysql.md)
+    * [Problèmes généraux](/logiciels/mysql/mysql.md#problmes-gnraux)
+      1. [Modifier le mot de passe de l'utilisateur root de mySQL](/logiciels/mysql/mysql.md#modifier-le-mot-de-passe-de-lutilisateur-root-de-mysql)
+      1. [Créer un nouvel utilisateur super-admin](/logiciels/mysql/mysql.md#crer-un-nouvel-utilisateur-super-admin)
   - Steam
     * Steam API
   - [VirtualBox](/logiciels/virtualbox/virtualbox.md)
