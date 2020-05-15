@@ -5,7 +5,7 @@
 ```shell script
 sudo apt update
 sudo apt upgrade
-sudo apt install git yakuake filezilla
+sudo apt install git yakuake filezilla golang steam-installer
 sudo apt install apache2 mysql-server php phpmyadmin postgresql php-pgsql sqlite3
 ```
 
@@ -30,6 +30,15 @@ Pour se [créer un utilisateur avec les droits sur une base](../../logiciels/pos
 ### Importer FileZilla
 
 Importer le fichier de paramètres.
+
+### Installer steam
+
+Le paquet de l'installateur de steam a déjà été téléchargé et installé. Il
+suffit de lancer steam une fois pour achever l'installation.
+
+```shell script
+steam
+``` 
 
 ### Configuration générale
 
