@@ -28,6 +28,30 @@ par une succession de filtres pour l'en extraire :
 </div>
 ```
 
+### Faire une condition (if) en SPIP
+
+SPIP peut être particulièrement pénible lorsqu'on tente de coder de manière procédurale. Une simple
+condition nécessite de tirailler SPIP dans tous les sens.
+
+```html
+<!--
+Ici, nous souhaitons afficher les rubriques 3 par 3.
+Pour ce faire, nous parcourons toutes les rubriques et jouons avec le modulo du compteur de la boucle.
+Si le modulo par 3 du compteur est égal à 1, on affiche une balise <div> ouvrante.
+Alors que si le modulo par 3 du compteur est égal à 0, on affiche une balise <div> fermante.
+ -->
+<BOUCLE_rubriques(RUBRIQUES){id_rubrique=XXX}{par id_rubrique}>
+    [(#COMPTEUR_BOUCLE|modulo{3}|=={1}|oui)
+        <div class="ouvrant">
+    ]
+        mon contenu ici
+    [(#COMPTEUR_BOUCLE|modulo{3}|=={0}|oui)
+    </div>
+    ]
+</BOUCLE_rubriques>
+```
+
+
 ## Problèmes rencontrés durant l'utilisation de SPIP
 
 
