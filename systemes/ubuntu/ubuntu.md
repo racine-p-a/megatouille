@@ -55,7 +55,12 @@ Configurer la souris pour ouvrir les dossiers d'un simple clic (Espace de travai
 ### Installer d'autres logiciels
 
 Installer les logiciels suivants :
+- [CLion](https://www.jetbrains.com/clion/)
+- [GoLand](https://www.jetbrains.com/go/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
 
 Options à modifier :
 
@@ -77,3 +82,12 @@ Ce qui nous donnera :
 ## Monter automatiquement un disque dur
 
 voir [ici](../../logiciels/fstab/fstab.md#monter-automatiquement-un-disque-au-dmarrage)
+
+## Supprimer un dépôt
+
+Les dépôts peuvent êtere à deux endroits différents :
+- dans le dossier _/etc/apt/sources.list.d/_ où chaque fichier corrrespond
+à un dépôt. Supprimer le fichier supprimera le dépôt de votre liste.
+- dans le fichier _/etc/apt/sources.list_ où les adresses des dépôts se
+succèdent ligne à ligne. Supprimer la ligne du dépôt en question le supprimera
+de votre liste.
