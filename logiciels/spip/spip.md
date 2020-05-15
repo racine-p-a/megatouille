@@ -1,5 +1,6 @@
 # SPIP
 
+- [Astuces pour coder](#astuces-pour-coder)
 - [Problèmes rencontrés durant l'utilisation de SPIP](#Problèmes-rencontrés-durant-lutilisation-de-SPIP)
   * [Page blanche durant l'installation](#Page-blanche-durant-linstallation)
   * [htaccess inopérant](#htaccess-inopérant)
@@ -7,6 +8,25 @@
   * [Mettre à jour SPIP via le spip_loader.php](#Mettre-à-jour-SPIP-via-le-spip_loader.php)
 - [Astuces diverses](#astuces-diverses)
 
+## Astuces pour coder
+
+### Récupérer l'url absolue d'un logo ou d'une image
+
+Dans certains cas, il nous faut l'url complète d'une image. La seule solution consiste à passer
+par une succession de filtres pour l'en extraire :
+
+```html
+<!-- Ici, nous créons un div ayant comme arrière-plan une image dont nous récupérons l'url absolue.  -->
+<div
+    <BOUCLE_image(ARTICLES){id_article=XXX}>
+    style="
+        background: url('[(#LOGO_ARTICLE|extraire_attribut{src}|url_absolue)]') no-repeat;
+        background-size: cover;"
+    </BOUCLE_proto>
+>
+    texte par-dessus l'image
+</div>
+```
 
 ## Problèmes rencontrés durant l'utilisation de SPIP
 
