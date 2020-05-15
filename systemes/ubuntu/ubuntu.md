@@ -25,7 +25,7 @@ GRANT ALL ON *.* TO 'nom_utilisateur'@'localhost';
 
 ### Configurer postgreSQL
 
-Pour se [créer un utilisateur avec les droits sur une base](../../logiciels/postgresql/postgresql.md#crer-un-nouvel-utilisateur-super-admin).
+Pour se [créer un utilisateur avec les droits sur une base](../../logiciels/postgresql/postgresql.md#crer-un-nouvel-utilisateur-super-admin-avec-sa-table-correspondante).
 
 ### Importer FileZilla
 
@@ -50,6 +50,7 @@ Raccourcis barre de lacement :
 - Ktorrent
 - FileZilla
 - Dolphin
+- Steam
 
 Configurer la souris pour ouvrir les dossiers d'un simple clic (Espace de travail).
 
