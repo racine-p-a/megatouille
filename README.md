@@ -5,6 +5,7 @@
 + Jeux
   - [Oddworld l'Odyssée d'Abe](/jeux/oddworld_l_odysse_d_abe.md)
   - [The Elder Scrolls V : Skyrim](/jeux/tes5skyrim/skyrim.md)
+  - [Victoria 2](/jeux/victoria2/victoria2.md)
 + Langages
   - javascript
     * [Foncions js expliquées avec exemples <3 (en)](https://30secondsofcode.org/)
@@ -58,8 +59,8 @@
       1. [Page blanche durant l'installation](/logiciels/spip/spip.md#page-blanche-durant-linstallation)
       1. [htaccess inopérant](/logiciels/spip/spip.md#htaccess-inopérant)
       1. [Erreur lors d'un import de dump](/logiciels/spip/spip.md#erreur-lors-dun-import-de-dump)
-  - Steam
-    * Steam API
+  - [Steam](/logiciels/steam/steam.md)
+    * [Documentations variées](/logiciels/steam/steam.md#documentations-varies)
   - [VirtualBox](/logiciels/virtualbox/virtualbox.md)
     * [Créer un répertoire partagé entre l'hôte et l'invité](/logiciels/virtualbox/virtualbox.md#créer-un-dossier-partagé-entre-hôte-et-invité)
       1. [Hôte linux - invité linux](/logiciels/virtualbox/virtualbox.md#hôte-linux---invité-linux)  
