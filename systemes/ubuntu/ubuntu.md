@@ -5,7 +5,7 @@
 ```shell script
 sudo apt update
 sudo apt upgrade
-sudo apt install git yakuake filezilla golang steam-installer
+sudo apt install git yakuake filezilla golang steam-installer python3-tk smplayer qbittorrent
 sudo apt install apache2 mysql-server php phpmyadmin postgresql php-pgsql sqlite3
 ```
 
@@ -27,7 +27,7 @@ GRANT ALL ON *.* TO 'nom_utilisateur'@'localhost';
 
 Pour se [créer un utilisateur avec les droits sur une base](../../logiciels/postgresql/postgresql.md#crer-un-nouvel-utilisateur-super-admin-avec-sa-table-correspondante).
 
-### Importer FileZilla
+### Importer les paramètres de FileZilla
 
 Importer le fichier de paramètres.
 
