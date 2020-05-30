@@ -1,5 +1,18 @@
 # Steam
 
+## Astuces
+
+## Récupérer les captures d'écran de steam
+
+Pour récupérer les captures d'écran faites en jeu, il faut aller dans le dossier :
+```text
+/home/[username]/.steam/debian-installation/userdata/[steam_id3]/760/remote/[game_id]/screenshots
+```
+Dans le chemin ci-dessus, pensez à changer votre nom d'utilisateur (`[username]`),`[steam_id3]` qui
+correspond à votre identifiant steamID3 ainsi que `[game_id]` qui correspond à l'identifiant du jeu en
+question.
+ 
+
 ## Documentations variées
 
 - [La ligne de commande steam](https://developer.valvesoftware.com/wiki/Command_Line_Options)

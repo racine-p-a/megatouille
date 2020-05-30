@@ -5,7 +5,8 @@
 ```shell script
 sudo apt update
 sudo apt upgrade
-sudo apt install git yakuake filezilla golang steam-installer python3-tk smplayer qbittorrent
+sudo apt install git yakuake filezilla golang steam-installer python3-tk
+sudo apt install verbiste-gtk smplayer qbittorrent chromium-browser
 sudo apt install apache2 mysql-server php phpmyadmin postgresql php-pgsql sqlite3
 ```
 
