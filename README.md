@@ -2,10 +2,6 @@
 
 ## Utilitaires
 
-+ Jeux
-  - [Oddworld l'Odyssée d'Abe](/jeux/oddworld_l_odysse_d_abe.md)
-  - [The Elder Scrolls V : Skyrim](/jeux/tes5skyrim/skyrim.md)
-  - [Victoria 2](/jeux/victoria2/victoria2.md)
 + Langages
   - javascript
     * [Foncions js expliquées avec exemples <3 (en)](https://30secondsofcode.org/)

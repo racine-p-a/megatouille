@@ -5,7 +5,7 @@
 ```shell script
 sudo apt update
 sudo apt upgrade
-sudo apt install git yakuake filezilla golang steam-installer python3-tk
+sudo apt install git yakuake filezilla golang steam-installer python3-tk default-jre
 sudo apt install verbiste-gtk smplayer qbittorrent chromium-browser
 sudo apt install apache2 mysql-server php phpmyadmin postgresql php-pgsql sqlite3
 ```
@@ -67,10 +67,13 @@ Configurer la souris pour ouvrir les dossiers d'un simple clic (Espace de travai
 
 Installer les logiciels suivants :
 - [CLion](https://www.jetbrains.com/clion/)
+- [Discord](https://discord.com/download)
 - [GoLand](https://www.jetbrains.com/go/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Teamspeak](https://teamspeak.com/en/thanks-for-downloading-teamspeak/)
+- [Teamviewer](https://www.teamviewer.com/fr/telecharger/linux/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 
 Options à modifier :
