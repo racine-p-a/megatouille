@@ -70,6 +70,7 @@ Installer les logiciels suivants :
 - [Discord](https://discord.com/download)
 - [GoLand](https://www.jetbrains.com/go/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Minecraft](https://www.minecraft.net/fr-fr/download/alternative)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Teamspeak](https://teamspeak.com/en/thanks-for-downloading-teamspeak/)
