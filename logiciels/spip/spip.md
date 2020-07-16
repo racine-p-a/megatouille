@@ -153,3 +153,19 @@ Dans l'url de votre navigateur, ajoutez l'option :
 Vous aurez ainsi un affichage de page vous indiquant la provenance de chaque portion de code.
 
 ![Affichage de l'agencement des squelettes](images/spip_astuces_01_agencement_des_squelettes.png "Affichage de l'agencement des squelettes")
+
+
+# Astuces des mudules
+
+## Champs extra
+
+### Restreindre des champs à certaines rubriques
+
+Ajoutez cette ligne au fichier era_functions.php :
+
+```php
+restreindre_extras('article', array($tableauDesIdentifiantsDesChampsConcernes), array(308), 'rubrique', true);
+``` 
+Cette ligne restreindra les champs de $tableauDesIdentifiantsDesChampsConcernes à la rubrique 308.
+
+[La documentation de cette fonction](https://contrib.spip.net/Champs-Extras-3-API-et-creations)
