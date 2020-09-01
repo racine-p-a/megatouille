@@ -166,6 +166,14 @@ Vous aurez ainsi un affichage de page vous indiquant la provenance de chaque por
 Le module _champs extra_ peut être utiisé sans interface. Dans ce cas, on peut déclarer, paramétrer et retrouver
 tout ce qui concerne les champs extra dans un fichier qui aura été déclaré. 
 
+### Récupérer la valeur d'un champ extra
+
+Vous avez créé un champ extra et souhaitez à présent vous en servir dans un de vos squelettes SPIP.
+
+Admettons qu'il soit déclaré comme avec pour identifiant _id_linked_rub_ dans vos fichiers.
+POur l'utiliser dans un squelette, vous pouvez l'insérer dans votre code avec _#ID_LINKED_RUB_. 
+
+
 ### Restreindre des champs à certaines rubriques
 
 Ajoutez cette ligne au fichier functions.php qui aura été déclaré :
