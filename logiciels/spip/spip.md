@@ -7,6 +7,8 @@
   * [Erreur lors d'un import de dump](#Erreur-lors-dun-import-de-dump)
   * [Mettre à jour SPIP via le spip_loader.php](#Mettre-à-jour-SPIP-via-le-spip_loader.php)
 - [Astuces diverses](#astuces-diverses)
+- [Astuces des modules](#astuces-des-modules)
+  * [Champs Extra](#champs-extra)
 
 ## Astuces pour coder
 
@@ -155,13 +157,18 @@ Vous aurez ainsi un affichage de page vous indiquant la provenance de chaque por
 ![Affichage de l'agencement des squelettes](images/spip_astuces_01_agencement_des_squelettes.png "Affichage de l'agencement des squelettes")
 
 
-# Astuces des mudules
+# Astuces des modules
 
 ## Champs extra
 
+### Accéder aux champs extra sans interface
+
+Le module _champs extra_ peut être utiisé sans interface. Dans ce cas, on peut déclarer, paramétrer et retrouver
+tout ce qui concerne les champs extra dans un fichier qui aura été déclaré. 
+
 ### Restreindre des champs à certaines rubriques
 
-Ajoutez cette ligne au fichier era_functions.php :
+Ajoutez cette ligne au fichier functions.php qui aura été déclaré :
 
 ```php
 restreindre_extras('article', array($tableauDesIdentifiantsDesChampsConcernes), array(308), 'rubrique', true);
