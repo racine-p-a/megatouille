@@ -68,6 +68,8 @@
   - [VirtualBox](/logiciels/virtualbox/virtualbox.md)
     * [Créer un répertoire partagé entre l'hôte et l'invité](/logiciels/virtualbox/virtualbox.md#créer-un-dossier-partagé-entre-hôte-et-invité)
       1. [Hôte linux - invité linux](/logiciels/virtualbox/virtualbox.md#hôte-linux---invité-linux)  
++ Sites
+  - [btdig](http://btdig.com) Moteur de recherche de liens magnétiques
 + Systèmes
   - [Ubuntu](/systemes/ubuntu/ubuntu.md)
     * [Connaître sa version d'Ubuntu](/systemes/ubuntu/ubuntu.md#connaître-sa-version-dubuntu)
