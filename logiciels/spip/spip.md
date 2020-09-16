@@ -144,6 +144,11 @@ Ces utilisateurs sont représentés par leurs identifiants séparés par « :�
 
 # Astuces diverses
 
+Pages tierces listant eux-mêmes des astuces :
+- [« Astuces courtes »](https://contrib.spip.net/Astuces-courtes-pour-SPIP)
+- [« Astuces longues »](https://contrib.spip.net/Astuces-longues-pour-SPIP)
+
+
 ## Voir l'agencement des squelettes dans une page
 
 Dans l'url de votre navigateur, ajoutez l'option :
