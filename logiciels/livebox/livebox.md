@@ -1,6 +1,6 @@
 # Administration de la livebox
 
-# Rediriger des données de l'extérieur vers une machine (*redirection de ports* / *portforwarding*)
+## Rediriger des données de l'extérieur vers une machine (*redirection de ports* / *portforwarding*)
 
 Depuis une machine connectée à votre *livebox*, lancez votre navigateur et allez à l'adresse suivante :
 [http://192.168.1.1/homeAuthentication.html](http://192.168.1.1/homeAuthentication.html).
