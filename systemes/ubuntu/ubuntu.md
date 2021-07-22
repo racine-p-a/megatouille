@@ -8,7 +8,7 @@ sudo apt upgrade
 sudo apt install git yakuake filezilla golang steam-installer python3-tk default-jre
 sudo apt install verbiste-gtk smplayer qbittorrent chromium-browser kdeconnect gimp
 sudo apt install apache2 mysql-server php phpmyadmin postgresql php-pgsql sqlite3
-sudo apt install virtualbox virtualbox-qt virtualbox-dkms
+sudo apt install virtualbox virtualbox-qt virtualbox-dkms net-tools p7zip-full p7zip-rar
 ```
 
 ### Configurer mySQL
