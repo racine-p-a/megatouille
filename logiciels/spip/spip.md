@@ -164,6 +164,10 @@ Vous aurez ainsi un affichage de page vous indiquant la provenance de chaque por
 
 # Astuces des modules
 
+## paquet.xml
+
+POur tout savoir sur `paquet.xml`, une documentation officielle existe [ici](https://plugins.spip.net/redaction-du-paquet-xml.html).
+
 ## Champs extra
 
 ### Accéder aux champs extra sans interface
