@@ -2,6 +2,8 @@
 
 ## Utilitaires
 
++ Audio
+  - fichiers .cue
 + Langages
   - javascript
     * [Foncions js expliquées avec exemples <3 (en)](https://30secondsofcode.org/)
