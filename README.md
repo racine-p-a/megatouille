@@ -3,7 +3,7 @@
 ## Utilitaires
 
 + Audio
-  - fichiers .cue
+  - [Fichiers .cue](audio/cue/cue.md)
 + Langages
   - javascript
     * [Foncions js expliquées avec exemples <3 (en)](https://30secondsofcode.org/)
@@ -38,6 +38,7 @@
     * [.htaccess (en)](https://github.com/phanan/htaccess)
   - [Discord](/logiciels/discord/discord.md)
   - Docker
+    * [Mémo personnel](/logiciels/docker/docker.md)
     * [Doc officielle (en)](https://docs.docker.com/)
   - [fstab](/logiciels/fstab/fstab.md)
     * [Monter automatiquement un disque au démarrage](/logiciels/fstab/fstab.md#monter-automatiquement-un-disque-au-dmarrage)
