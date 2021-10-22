@@ -7,6 +7,7 @@
   * [Erreur lors d'un import de dump](#Erreur-lors-dun-import-de-dump)
   * [Mettre à jour SPIP via le spip_loader.php](#Mettre-à-jour-SPIP-via-le-spip_loader.php)
 - [Astuces diverses](#astuces-diverses)
+  * [Créer sa propre balise](#crer-sa-propre-balise-du-genre-ma_balise) 
 - [Astuces des modules](#astuces-des-modules)
   * [Champs Extra](#champs-extra)
 
@@ -148,6 +149,10 @@ Pages tierces listant eux-mêmes des astuces :
 - [« Astuces courtes »](https://contrib.spip.net/Astuces-courtes-pour-SPIP)
 - [« Astuces longues »](https://contrib.spip.net/Astuces-longues-pour-SPIP)
 
+
+## Créer sa propre balise (du genre #MA_BALISE)
+
+Voir [cette page](https://code.spip.net/fr/archives/compilateur/article/creer-des-balises-personnalisees-9).
 
 ## Voir l'agencement des squelettes dans une page
 

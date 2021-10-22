@@ -32,4 +32,10 @@ Commencez par avoir un fichier `Dockerfile`. Une fois cela fait, vous pouvez bâ
 # Build d'une image docker. N'oubliez pas le point à la fin.
 docker build -t nom_de_votre_image .
 # L'argument -t assigne un tag à l'image créée (le .)
+
+# Pour lancer l'image avec un nom de conteneur spécifié et une correspondance entre le port
+# 80 du conteneur et le port 3004 de l'hôte.
+docker run --name "nom_de_votre_image" -p 3004:80 nom_de_votre_conteneur
+# Si le conteneur contient un serveur, ouvrir son navigateur en local sur le port 3004 permettra
+# d'accéder au conteneur. 
 ```
