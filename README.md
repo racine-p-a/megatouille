@@ -44,6 +44,8 @@
     * [Monter automatiquement un disque au démarrage](/logiciels/fstab/fstab.md#monter-automatiquement-un-disque-au-dmarrage)
   - [Gihub](/logiciels/github/github.md)
       * [Push master to origin/master was rejected by remote](/logiciels/github/github.md#push-master-to-originmaster-was-rejected-by-remote)
+  - [KVirc](/logiciels/kvirc/kvirc.md)
+    * [Installer KVirc](/logiciels/kvirc/kvirc.md)
   - [Livebox](/logiciels/livebox/livebox.md)
       * [Redirection de ports / port-forwarding](/logiciels/livebox/livebox.md#user-content-rediriger-des-données-de-lextérieur-vers-une-machine-redirection-de-ports--portforwarding)
   - [Mattermost](/logiciels/mattermost/mattermost.md)
